@@ -1,0 +1,1 @@
+9:49 PM 12/2/2013	分析了hook函数，定位到调用链应该是从swap_readpage开始的，明天从swap_readpage开始读。
